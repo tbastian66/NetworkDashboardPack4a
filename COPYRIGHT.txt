@@ -2,9 +2,5 @@
 # Copyright (c) HPE Aruba Networking
 # Copyright (c) 2024-2025 Thomas Bastian 
 # Copyright (c) 2024-2025 Jeffrey Goff
-# This material contains trade secrets and confidential information of 
-# HPE Aruba Networking.
-# Any use, reproduction, disclosure or dissemination is strictly prohibited
-# without the explicit written permission of HPE Aruba Networking.
 # All rights reserved.
 #
