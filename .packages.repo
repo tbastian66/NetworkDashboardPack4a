@@ -1,0 +1,4 @@
+# A location to download packages.<arch>.<machine>
+# Use raw/HEAD for latest
+# Use raw/x.y.z for released version x.y.z
+https://bitbucket.org/tbastian/networkdashboardpack2c/raw/HEAD
