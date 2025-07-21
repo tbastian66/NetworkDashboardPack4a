@@ -1,6 +1,6 @@
 #
-# Copyright (c) HPE Aruba Networking
-# Copyright (c) 2024-2025 Thomas Bastian 
-# Copyright (c) 2024-2025 Jeffrey Goff
+# Copyright (c) HPE Networking
+# Copyright (c) 2025 Thomas Bastian 
+# Copyright (c) 2025 Jeffrey Goff
 # All rights reserved.
 #
