@@ -2,7 +2,7 @@
 # arch.machine linux.x86_64
 
 # AirRecorder JAR
-airrecorder=lib/AirRecorder-1.11.0-release.jar
+airrecorder=lib/AirRecorder-1.11.1-release.jar
 
 # RestRecorder
 restrecorder=etc/.bootstrap/rest-recorder/RestRecorder-0.9.1.tar.gz
