@@ -2,7 +2,7 @@
 # arch.machine darwin.x86_64
 
 # AirRecorder JAR
-airrecorder=lib/AirRecorder-1.11.1-release.jar
+airrecorder=lib/AirRecorder-1.11.2-release.jar
 
 # RestRecorder
 restrecorder=etc/.bootstrap/rest-recorder/RestRecorder-0.9.1.tar.gz
@@ -16,11 +16,11 @@ CDN=etc/.bootstrap/kafka/kafka_2.13-3.9.1.tar.gz https://downloads.apache.org/ka
 # which is suitable for getting es, logstash and kibana
 # from the repo and elastic.com. Note that all ELK repo
 # packages must use the format <name>-<ver>-<arch>-<machine>
-elk_stack=9.1.5
-CDN=etc/.bootstrap/elasticsearch/elasticsearch-9.1.5.tar.gz https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-9.1.5-darwin-x86_64.tar.gz
-CDN=etc/.bootstrap/kibana/kibana-9.1.5.tar.gz https://artifacts.elastic.co/downloads/kibana/kibana-9.1.5-darwin-x86_64.tar.gz
-CDN=etc/.bootstrap/logstash/logstash-9.1.5.tar.gz https://artifacts.elastic.co/downloads/logstash/logstash-9.1.5-darwin-x86_64.tar.gz
+elk_stack=9.1.6
+CDN=etc/.bootstrap/elasticsearch/elasticsearch-9.1.6.tar.gz https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-9.1.6-darwin-x86_64.tar.gz
+CDN=etc/.bootstrap/kibana/kibana-9.1.6.tar.gz https://artifacts.elastic.co/downloads/kibana/kibana-9.1.6-darwin-x86_64.tar.gz
+CDN=etc/.bootstrap/logstash/logstash-9.1.6.tar.gz https://artifacts.elastic.co/downloads/logstash/logstash-9.1.6-darwin-x86_64.tar.gz
 
 # Grafana
-grafana=etc/.bootstrap/grafana/grafana-12.2.0-darwin-x86_64.tar.gz
-CDN=etc/.bootstrap/grafana/grafana-12.2.0-darwin-x86_64.tar.gz https://dl.grafana.com/oss/release/grafana-12.2.0.darwin-amd64.tar.gz
+grafana=etc/.bootstrap/grafana/grafana-12.2.1-darwin-x86_64.tar.gz
+CDN=etc/.bootstrap/grafana/grafana-12.2.1-darwin-x86_64.tar.gz https://dl.grafana.com/oss/release/grafana-12.2.1.darwin-amd64.tar.gz
